@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "title": "제목1",
+      "content": "내용1",
+      "createdAt": 1695262002525,
+      "id": 1
+    },
+    {
+      "title": "제목2",
+      "content": "내용2",
+      "createdAt": 1695262010520,
+      "id": 2
+    },
+    {
+      "title": "제목3",
+      "content": "내용3",
+      "createdAt": 1695262018318,
+      "id": 3
+    },
+    {
+      "title": "제목4",
+      "content": "내용4",
+      "createdAt": 1695262024738,
+      "id": 4
+    },
+    {
+      "title": "제목5",
+      "content": "내용5",
+      "createdAt": 1695262032784,
+      "id": 5
+    },
+    {
+      "title": "제목6",
+      "content": "내용6",
+      "createdAt": 1695262040005,
+      "id": 6
+    },
+    {
+      "title": "제목7",
+      "content": "내용7",
+      "createdAt": 1695262052924,
+      "id": 7
+    },
+    {
+      "title": "제목9",
+      "content": "내용9",
+      "createdAt": 1695262226719,
+      "id": 9
+    },
+    {
+      "title": "제목10",
+      "content": "내용10",
+      "createdAt": 1695262277246,
+      "id": 10
+    },
+    {
+      "title": "제목11",
+      "content": "내용11",
+      "createdAt": 1695262284920,
+      "id": 11
+    },
+    {
+      "title": "제목12",
+      "content": "내용12",
+      "createdAt": 1695262306648,
+      "id": 12
+    },
+    {
+      "title": "제목12",
+      "content": "내용12",
+      "createdAt": 1695262475418,
+      "id": 13
+    }
+  ]
+}
